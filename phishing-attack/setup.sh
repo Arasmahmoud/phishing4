@@ -13,7 +13,7 @@ echo 'Linkedin ==> almcompany '
 echo 'Udemy ==> Arasmahmoud '
 echo '        '
 echo " unzip nogrok now ....  "
-unzip ngrok-2.2.8-linux-arm64.zip
+unzip ngrok.zip
 echo "done"
 echo "enter ngrok conde "
 read a
