@@ -18,4 +18,13 @@ bash setuo.sh
 step 3
 
 bash f-attack.sh 
+a file will be created Password.txt in sites/facebook
+facebook ==> sites/facebook 
+google ==> sites/google
+github ==> sites/github
+instgram ==> sites/instgram 
+twitter ==> sites/twttier
+
+if you finish your test kill all php process with command killall php 
+
 #enjoy          made by kv4 
