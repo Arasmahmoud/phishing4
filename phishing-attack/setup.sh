@@ -18,4 +18,4 @@ echo "done"
 echo "enter ngrok conde "
 read a
 
-./ngrok authtoken$a
+./ngrok authtoken $a
