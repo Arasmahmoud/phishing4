@@ -39,9 +39,6 @@ then
 fi
 exit
 
-
-
-echo "try again .."
 if [ $n -eq 2 ];
 then
         echo "please wait ...."
