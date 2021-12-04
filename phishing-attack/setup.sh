@@ -12,7 +12,7 @@ echo 'Instagram ==> almcompany6 '
 echo 'Linkedin ==> almcompany '
 echo 'Udemy ==> Arasmahmoud '
 echo '        '
-echo " unzip nogrok now ....  "
+echo " unzip ngrok now ....  "
 unzip ngrok.zip
 echo "done"
 echo "enter ngrok conde "
