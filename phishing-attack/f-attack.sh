@@ -13,11 +13,13 @@ echo 'Instagram ==> almcompany6 '
 echo 'Linkedin ==> almcompany '
 echo 'Udemy ==> Arasmahmoud '
 echo "    "
-echo " [1] FACEBOOK"
-echo " [2] GITHUB "
-echo " [3] GOOGLE   "
-echo " [4] INSTAGRAM   "
-echo " [5] TWITTER  "
+echo " [1] FACEBOOK      [8] paypal "
+echo " [2] GITHUB        [9] snapchat "
+echo " [3] GOOGLE        [10] telegram "
+echo " [4] INSTAGRAM     [11] tiktok "
+echo " [5] TWITTER       [12] twitch "
+echo " [6] linkedin      [13] whatsapp "
+echo " [7] netflix       [14] wordpress "
 echo "       "
 
 echo " select the number >> "
